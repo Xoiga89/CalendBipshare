@@ -1,0 +1,6 @@
+Calendar
+RU	Lịch tháng
+IT	Calendario
+EN	Calendar
+FR	Calendrier
+DE	Kalender
